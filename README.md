@@ -1,1 +1,2 @@
 # Homework-12-Employee-Tracker
+For this assignment, the goal was to make a working application that could track the employees within a company by allowing the user to add their name, role, and department while also being able to view everything within the database. However, updating an employee's role proved to be much more complicated than the other functions, so it currently returns a "Function not available" message whenever the user tries to use it.
